@@ -5,8 +5,8 @@ margin: 10px 10px 50px;
 display: flex;
 align-items: center;
 justify-content: center;
-background-color: #ffffff;
-box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%) ;
+background-color: #f0ebeb;
+box-shadow: 0 3px 13px 1px rgba(15, 3, 3, 0.862) ;
 }
 
 .imagen-testimonio {
@@ -50,4 +50,5 @@ box-shadow: 0 3px 13px 1px rgb(0 0 0 / 9%) ;
 
 .texto-testimonio {
     text-align: justify;
+    
 }
